@@ -5,7 +5,7 @@ Por enquanto escrevi muito pouco, mas a idéia inicial é preencher de forma mai
 
 * básico
 * convnet
-* rnn [redes neurais recorrentes]
+* rnn [redes neurais recorrentes] (ainda vazio)
 
 e dentro delas, futuramente deixarei scripts com experimentos mais elaborados e não apenas arquivos do jupyter notebook.
 
